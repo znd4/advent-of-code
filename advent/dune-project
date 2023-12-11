@@ -5,15 +5,15 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github znd4/advent-of-code))
 
-(authors "Author Name")
+(authors "Zane Dufour")
 
-(maintainers "Maintainer Name")
+(maintainers "Zane Dufour")
 
-(license LICENSE)
+(license MIT)
 
-(documentation https://url/to/documentation)
+; (documentation https://url/to/documentation)
 
 (package
  (name advent)
